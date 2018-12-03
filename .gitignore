@@ -1,0 +1,14 @@
+# binary output
+bin/
+
+# CMake build files
+build/
+
+# IDEs
+.vscode/
+
+# generated documentation
+doc/doxygen/
+
+# version files
+version.hpp

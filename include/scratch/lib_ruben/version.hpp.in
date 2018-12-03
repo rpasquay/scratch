@@ -1,0 +1,32 @@
+/**
+ * \file version.hpp
+ * \author Rafael Pasquay (rafael@pasquay.com)
+ * \brief Version information on library "Ruben".
+ * \version 0.1
+ * \date 2018-10-30
+ * 
+ * @copyright Copyright (c) 2018
+ * 
+ */
+
+// documentation of namespace and group of doxygen commented stuff:
+
+/**
+ * \namespace scratch::ruben
+ * \brief Namespace of static library "Ruben".
+ */
+
+/**
+ * \defgroup lib_ruben lib_ruben
+ * \brief This is a brief description of library lib_ruben.
+ * 
+ * This is a more detailed description of lib_ruben. Library "Ruben" is a simple example of a
+ * static library's directory/file layout, CMake and Doxygen setup.
+ * The library's functionality is nonsensical by design.
+ */
+
+// version information:
+
+#define LIB_RUBEN_VERSION_MAJOR @lib_ruben_VERSION_MAJOR@
+#define LIB_RUBEN_VERSION_MINOR @lib_ruben_VERSION_MINOR@
+#define LIB_RUBEN_VERSION_PATCH @lib_ruben_VERSION_PATCH@

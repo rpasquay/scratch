@@ -1,0 +1,32 @@
+/**
+ * \file version.hpp
+ * \author Rafael Pasquay (rafael@pasquay.com)
+ * \brief Version information on library "Stanley".
+ * \version 0.1
+ * \date 2018-10-30
+ * 
+ * @copyright Copyright (c) 2018
+ * 
+ */
+
+// documentation of namespace and group of doxygen commented stuff:
+
+/**
+ * \namespace scratch::stanley
+ * \brief Namespace of dynamic library "Stanley".
+ */
+
+/**
+ * \defgroup lib_stanley lib_stanley
+ * \brief This is a brief description of library lib_stanley.
+
+ * This is a more detailed description of lib_stanley. Library "Stanley" is a simple example of a
+ * shared (dynamic) library's directory/file layout, CMake and Doxygen setup.
+ * The library's functionality is nonsensical by design.
+ */
+
+// version information:
+
+#define LIB_STANLEY_VERSION_MAJOR @lib_stanley_VERSION_MAJOR@
+#define LIB_STANLEY_VERSION_MINOR @lib_stanley_VERSION_MINOR@
+#define LIB_STANLEY_VERSION_PATCH @lib_stanley_VERSION_PATCH@
