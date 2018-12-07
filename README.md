@@ -1,7 +1,7 @@
-# Scratch C++ Project template
+# Scratch - A C++ Project Template
 
-Hi, this is a very simple C++ template I created to have a starting point for my ideas.
-It provides a basic yet functioning setup of CMake, CTest, GoogleTest as well as Doxygen.
+"Scratch" is a very simple C++ template I created to have a starting point for my ideas.
+It provides a basic yet functioning setup of CMake, CTest, GoogleTest as well as Doxygen.exit
 
 If you find it useful, great! If you have ideas, suggestions or found a bug then please open an
 issue or make a pull request.
@@ -13,7 +13,7 @@ Also I do not claim to follow all best practices. Like said above, I'm open for 
 
 Cheers, Rafael
 
-## Project overview
+## Project Overview
 
 What is included :
 
@@ -42,7 +42,7 @@ Please note that atleast **CMake version 3.12** is required to build this projec
 
 Building has been tested on **Visual Studio 2017 (Windows 10 Professional)** and **g++ 7.3.0 (Ubuntu 18.04.1)**.
 
-### Building the project
+### Building the Project
 
 Same steps as in every cmake based project ;).
 
@@ -76,7 +76,7 @@ To run the tests, in directory `build/` type:
 
     ctest .
 
-## Documentation
+## Building the Documentation
 
 Further documentation can be found in the following files in `doc/`:
 
@@ -89,7 +89,7 @@ I recommend keeping a changelog also for your small and personal projects.
 
 Of course this template also has a changelog (a pretty empty one though): [Changelog](CHANGELOG.md)
 
-## Version numbers found in this template
+## Version Numbers Found in This Template
 
 A quick note about the meaningfulness of the version numbers found in this project (hint: there is mostly no meaning):
 
