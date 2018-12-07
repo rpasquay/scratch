@@ -13,6 +13,37 @@ Also I do not claim to follow all best practices. Like said above, I'm open for 
 
 Cheers, Rafael
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+    *   [What This Template Does Not Provide](#what-this-template-does-not-provide)
+    *   [What This Template Might Provide in the Future](#what-this-template-might-provide-in-the-future)
+2. [Building](#building)
+    *   [Building the Project](#building-the-project)
+    *   [Building the Documentation](#building-the-documentation)
+3. [Project Structure](#project-structure)
+    *   [Directories](#directories)
+        *   [src/](#src/)
+        *   [src/lib/](#src/lib/)
+        *   [include/](#include/)
+        *   [doc/](#doc/)
+        *   [build/](#build/)
+        *   [bin/](#bin/)
+    *   [Tests](#tests)
+    *   [The Project's Targets](#the-project's-targets)
+        *   [Executables](#executables)
+        *   [Libraries](#libraries)
+    *   [CMake](#cmake)
+        *   [version.hpp Files](#version.hpp-files)
+    *   [CTest & GoogleTest](#ctest-&-googletest)
+    *   [Doxygen](#doxygen)
+        *   [Namespace Documentation](#namespace-documentation)
+        *   [Markdown Documentation](#markdown-documentation)
+        *   [Test Files](#test-files)
+        *   [Colliding File Names](#colliding-file-names)
+4. [Keep a Changelog !](#keep-a-changelog-!)
+5. [Version Numbers Found in This Template](#version-numbers-found-in-this-template)
+
 ## Project Overview
 
 What is included :
