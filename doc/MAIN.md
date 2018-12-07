@@ -21,15 +21,12 @@ source files it is composed of: meet Ernset and Linwood!
 
 ### Stanley
 
-A dynamic guy.
+A dynamic guy (dynamically linked C++ library).
 
 ### Ruben
 
-A pretty static dude.
+A pretty static dude (statically linked C++ library).
 
 ## Further details
 
-[foo](STRUCTURE.md)
-
-Refer to `STRUCTURE.md` for further details (if you're inside the Doxygen HTML right now click on
-"Related Pages" at the top - there you'll find it!).
+For further details refer to the `CMakeLists.txt` & source files.
