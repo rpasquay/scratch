@@ -12,7 +12,7 @@ endmacro(set_cmake_version)
 ### specify CMake version (see CMakeLists.txt at root level)
 set_cmake_version()
 
-project(scratch VERSION 1.0.0 DESCRIPTION "C++ template project")
+project(scratch VERSION 1.1.0 DESCRIPTION "C++ template project")
 
 # enable targets (in MSVC called projects) being grouped into folders
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
