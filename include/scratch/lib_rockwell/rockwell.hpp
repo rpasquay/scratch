@@ -3,7 +3,7 @@
  * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Public header of header-only library "Rockwell".
  * \version 1.0
- * \date 2018-10-21
+ * \date 2018-12-11
  * 
  * \copyright Copyright (c) 2018
  * 
