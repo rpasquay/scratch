@@ -1,6 +1,6 @@
 /**
  * \file stanley_impl.hpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Private header of dynamic class "Stanley".
  * \version 1.0
  * \date 2018-10-21

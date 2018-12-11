@@ -1,6 +1,6 @@
 /**
  * \file stanley.hpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Public header of dynamic library "Stanley".
  * \version 0.1
  * \date 2018-10-21

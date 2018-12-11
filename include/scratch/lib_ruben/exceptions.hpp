@@ -1,6 +1,6 @@
 /**
  * \file lib_ruben\exceptions.hpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Static library "cli". Header providing exception declarations.
  * \version 1.0
  * \date 2018-10-21

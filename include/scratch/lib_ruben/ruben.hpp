@@ -1,6 +1,6 @@
 /**
  * \file ruben.hpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Public header of static library "Ruben".
  * \version 1.0
  * \date 2018-10-21

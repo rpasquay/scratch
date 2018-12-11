@@ -1,6 +1,6 @@
 /**
  * \file linwood.hpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Exemplary header file of target "app".
  * \version 1.0
  * \date 2018-10-21

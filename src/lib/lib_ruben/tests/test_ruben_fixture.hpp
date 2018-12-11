@@ -1,6 +1,6 @@
 /**
  * \file test_ruben_fixture.hpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Fixture class for tests in file test_ruben.cpp.
  * \version 0.1
  * \date 2018-10-30

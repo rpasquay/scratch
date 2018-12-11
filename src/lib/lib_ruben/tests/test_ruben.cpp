@@ -1,6 +1,6 @@
 /**
  * \file test_ruben.cpp
- * \author Rafael Pasquay (rafael@pasquay.com)
+ * \author Rafael Pasquay (maintainer.scratch@pasquay.com)
  * \brief Tests for code in file ruben.cpp.
  * \version 0.1
  * \date 2018-10-30
