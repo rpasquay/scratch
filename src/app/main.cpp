@@ -21,6 +21,7 @@
 #include "scratch/lib_ruben/ruben.hpp"
 #include "scratch/lib_ruben/exceptions.hpp"
 #include "scratch/lib_stanley/stanley.hpp"
+#include "scratch/lib_rockwell/rockwell.hpp"
 
 /**
  * \brief Main entry point to this small template app.
@@ -55,6 +56,12 @@ int main(int argc, char** argv) {
     std::cout << "Stanley's secret is " << container->get_secret() << std::endl;
     std::cout << "He also has a message: ";
     container->print_message();
+
+    // Header-only library "Rockwell"
+
+    scratch::rockwell::Rockwell<int> rockwell(123);
+    std::cout << "Rockwell knows the numer " << rockwell.get_value() << "and can name his type: "
+        << rockwell.name_type() << "!" << std::endl;
 
     // "Ernest"
 

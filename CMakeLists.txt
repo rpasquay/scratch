@@ -57,6 +57,7 @@ set(SCRATCH_PROJECT_ROOT_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 # add libraries
 add_subdirectory("src/lib/lib_stanley")
 add_subdirectory("src/lib/lib_ruben")
+add_subdirectory("src/lib/lib_rockwell")
 # ...
 
 # add executables
@@ -66,5 +67,6 @@ add_subdirectory("src/app")
 # add tests
 add_subdirectory("src/lib/lib_ruben/tests")
 add_subdirectory("src/lib/lib_stanley/tests")
+add_subdirectory("src/lib/lib_rockwell/tests")
 add_subdirectory("src/app/tests")
 # ...

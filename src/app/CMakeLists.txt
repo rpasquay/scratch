@@ -24,7 +24,7 @@ target_include_directories(app
     PRIVATE "${SCRATCH_PROJECT_ROOT_DIR}/src") # for "private" headers next to the source files
 
 ### specify which libraries this executable has to be linked against
-target_link_libraries(app lib_ruben lib_stanley)
+target_link_libraries(app lib_ruben lib_stanley lib_rockwell)
 
 ### put this executable in a folder called "executables" in an IDE
 set_target_properties(app PROPERTIES FOLDER "executables")

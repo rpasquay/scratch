@@ -2,7 +2,7 @@
 set_cmake_version()
 
 ### Note: This file contains some rather long comments describing the differences to the test setup
-###     of "lib_stanley". 
+###     of "lib_ruben". 
 
 project(lib_ruben_tests VERSION 1.0.0 DESCRIPTION "Unit Tests for exemplary static library Ruben.")
 
@@ -13,7 +13,7 @@ project(lib_ruben_tests VERSION 1.0.0 DESCRIPTION "Unit Tests for exemplary stat
 ###     test executable. Instead we can just link against the static library.
 ###     
 ###     If however your static lib has "private stuff" only exposed via private headers, you
-###     probably should follow the approach from "lib_stanley" and compile the sources into the test
+###     probably should follow the approach from "lib_ruben" and compile the sources into the test
 ###     executable.
 ###
 # get_target_property(LIB_RUBEN_SOURCES lib_ruben SOURCES)
