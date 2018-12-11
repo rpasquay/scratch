@@ -6,6 +6,7 @@ build/
 
 # IDEs
 .vscode/
+.vs/
 
 # generated documentation
 doc/doxygen/
